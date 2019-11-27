@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Mojave Dynamic HEIC For GNOME</name>
+        <filename>/usr/share/backgrounds/mojave-dynamic-heic/mojave-heic.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+</wallpapers>
